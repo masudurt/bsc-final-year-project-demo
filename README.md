@@ -8,7 +8,11 @@
 ![Android](https://img.shields.io/badge/Scanner-Android-3DDC84?logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 ![License](https://img.shields.io/badge/license-unspecified-lightgrey)
-https://github.com/user-attachments/assets/1c29ea9d-cbf4-4beb-ade7-f83003d3f3d7
+
+
+https://github.com/user-attachments/assets/8abf7cae-58e6-430f-86fd-b52543eb16b7
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
